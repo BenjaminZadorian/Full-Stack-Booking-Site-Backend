@@ -1,5 +1,9 @@
 # Full Stack Coursework - Backend
 
+This is the frontend code repository of an example website. The style of this website is that of an after school activities booking site.
+
+For this, I used MongoDB as the backend database.
+
 ## Project Setup
 
 ```sh
