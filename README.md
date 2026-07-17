@@ -3,7 +3,7 @@
 Backend API for a full-stack booking platform that lets parents/students browse and book after-school activities. Built as a team project at Middlesex University.
 
 🔗 **Frontend repo:** [FullStackCourseWork-Frontend](https://github.com/BenjaminZadorian/FullStackCourseWork-Frontend)
-🔗 **Live demo:** [add your Render URL here]
+🔗 **Live demo:** [https://fullstackcoursework-backend.onrender.com]
 
 ---
 
