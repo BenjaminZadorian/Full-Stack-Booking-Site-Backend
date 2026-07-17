@@ -73,12 +73,3 @@ The API will be available at `http://localhost:[PORT]`.
 ## Deployment
 
 Deployed on [Render.com](https://render.com) with the root directory set to this repo. [Add a line here if/when you move to a combined monorepo, e.g. "Now deployed from the `backend/` folder of the combined repo — see [monorepo link]."]
-
-## What I'd Improve Next
-
-- [e.g. Add input validation / tests]
-- [e.g. Add pagination to listings endpoint]
-
-## Team
-
-Built as a team project — [names/roles if you want to credit teammates, or note your specific contribution if this was a group repo].
