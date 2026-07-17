@@ -9,24 +9,21 @@ Backend API for a full-stack booking platform that lets parents/students browse 
 
 ## Overview
 
-This service handles [briefly describe: e.g. "activity listings, user accounts, and booking requests"] for the platform. It exposes a REST API consumed by the [Vue.js frontend](https://github.com/BenjaminZadorian/FullStackCourseWork-Frontend).
+This service handles activity listings, user accounts, and booking requests for the platform. It exposes a REST API consumed by the [Vue.js frontend](https://github.com/BenjaminZadorian/FullStackCourseWork-Frontend).
 
 ## Tech Stack
 
 - **Runtime:** Node.js
-- **Framework:** [e.g. Express — fill in]
-- **Database:** [e.g. MongoDB / PostgreSQL / MySQL — fill in]
+- **Framework:** Pure Javascript
+- **Database:** [MongoDB]
 - **Hosting:** Render.com, AWS
-- **Other:** [auth library, ORM, etc. — fill in]
 
 ## Features
 
-- [e.g. User registration and login]
-- [e.g. Browse/search available activities]
-- [e.g. Create, view, and cancel bookings]
-- [e.g. Admin endpoints for managing activity listings]
-
-*(Replace the above with what the API actually does — be specific, this is the part recruiters skim first.)*
+- [User registration and login]
+- [Browse/search available activities]
+- [Create, view, and cancel bookings]
+- [Admin endpoints for managing activity listings]
 
 ## API Endpoints
 
@@ -72,4 +69,4 @@ The API will be available at `http://localhost:[PORT]`.
 
 ## Deployment
 
-Deployed on [Render.com](https://render.com) with the root directory set to this repo. [Add a line here if/when you move to a combined monorepo, e.g. "Now deployed from the `backend/` folder of the combined repo — see [monorepo link]."]
+Deployed on [Render.com](https://render.com) with the root directory set to this repo.
