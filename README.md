@@ -44,7 +44,7 @@ This service handles activity listings, user accounts, and booking requests for 
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v[X]+)
+- Node.js (v23+)
 - [Database] running locally or a connection string
 
 ### Installation
@@ -53,16 +53,6 @@ This service handles activity listings, user accounts, and booking requests for 
 git clone https://github.com/BenjaminZadorian/FullStackCourseWork-Backend.git
 cd FullStackCourseWork-Backend
 npm install
-```
-
-### Environment Variables
-
-Create a `.env` file in the root:
-
-```
-PORT=
-DATABASE_URL=
-[OTHER_VAR]=
 ```
 
 ### Run locally
