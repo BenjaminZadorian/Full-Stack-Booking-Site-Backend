@@ -29,11 +29,17 @@ This service handles activity listings, user accounts, and booking requests for 
 
 | Method | Endpoint | Description |
 |---|---|---|
-| GET | `/api/activities` | [describe] |
-| POST | `/api/bookings` | [describe] |
-| ... | ... | ... |
+| GET | `/lessons/` | Return all lessons available |
+| PUT | `/lessons/:id` | Update available spaces of a lesson, after order is confirmed |
+| POST | `/lessons/` | Create a new lesson |
+| DELETE | `/lessons/:id` | Delete a selected lesson |
+| GET | `/lessons/search` | Search database for a specific lesson |
+| POST | `/login/` | Log user in |
+| POST | `/orders/` | Create a new order |
+| GET | `/orders/user/:userId` | Get all orders from a chosen user |
+| POST | `/register` | Register a new user |
 
-*(Fill in your real routes — even a partial table is more useful than none.)*
+
 
 ## Getting Started
 
